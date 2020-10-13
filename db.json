@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "My first blog post"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "My second blog post"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "title": "My third blog post"
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "title": "My fourth blog post"
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "title": "My fifth blog post"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "devvhale-real"
+    },
+    {
+      "id": 2,
+      "username": "devvhale-fake"
+    }
+  ]
+}

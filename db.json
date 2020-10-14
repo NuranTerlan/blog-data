@@ -1,5 +1,4 @@
-{
-  "posts": [
+"posts": [
     {
       "id": 10,
       "title": "17 things you never knew about react?!",
@@ -50,5 +49,4 @@
       "title": "5 things you should do to become Frontend Master!",
       "body": "",
     }
-  ]
-}
+]

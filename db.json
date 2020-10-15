@@ -11,7 +11,7 @@ A frequently overlooked aspect of web services and web sites is how naturally co
 
 For example, mydomain.com/settings and mydomain.com/ could be two entirely different apps, deployed independently, scaled independently, even running different versions of the same software.
 
-All it takes to "glue them together" into a uniform experience for the end-user is some simple configuration of the backend routing layer or load balancers that expose them to the world.
+All it takes to glue them together into a uniform experience for the end-user is some simple configuration of the backend routing layer or load balancers that expose them to the world.
 
 We are very happy to now bring the ability to compose multiple applications built with Next.js, connected together using normal <Link> components. We call this feature Zones.
 
@@ -24,7 +24,7 @@ A frequently overlooked aspect of web services and web sites is how naturally co
 
 For example, mydomain.com/settings and mydomain.com/ could be two entirely different apps, deployed independently, scaled independently, even running different versions of the same software.
 
-All it takes to "glue them together" into a uniform experience for the end-user is some simple configuration of the backend routing layer or load balancers that expose them to the world.
+All it takes to glue them together into a uniform experience for the end-user is some simple configuration of the backend routing layer or load balancers that expose them to the world.
 
 We are very happy to now bring the ability to compose multiple applications built with Next.js, connected together using normal <Link> components. We call this feature Zones."
       },
